@@ -49,7 +49,7 @@ Objectives:
     chapter is the most recent effort by Hadley Wickham to teach
     testing. Beyond some specific details about testing Shiny apps
     (which this series won’t cover) it explains testing in general. It
-    includes features in the recent release of testthat e3.
+    includes features in the recent release of testthat 3e.
 
 -   [R packages: Testing](https://r-pkgs.org/tests.html). This book
     chapter is a common reference to teach testing in R. If you read the
