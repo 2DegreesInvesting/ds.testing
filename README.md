@@ -69,7 +69,7 @@ Workflow:
 
 ### Resources
 
--   Google doc: <https://bit.ly/dsi-testing>
+-   Google doc: <https://bit.ly/dsi-testing>.
 
 -   [Mastering Shiny:
     Testing](htps://mastering-shiny.org/scaling-testing.html). This book
