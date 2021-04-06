@@ -35,7 +35,7 @@ Objectives:
 
 -   Discuss what we want to take away from this series.
 
-### Mechanics: Testing files and workflow
+### Mechanics: Testing files and basic workflow
 
 This meetup covers two sections from the book [Mastering
 Shiny](https://mastering-shiny.org): [Testing
