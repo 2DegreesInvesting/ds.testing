@@ -74,6 +74,7 @@ Workflow:
 
 ### Resources
 
+* Google doc: <https://bit.ly/dsi-testing>
 * [Mastering Shiny:
 Testing](htps://mastering-shiny.org/scaling-testing.html). This
 book chapter is the most recent effort by Hadley Wickham to teach
