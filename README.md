@@ -64,7 +64,8 @@ Workflow:
 
 -   Keyboard shortcuts.
 
--   `expect_snapshot()` and friends.
+-   [Snapshot
+    tests](https://testthat.r-lib.org/articles/snapshotting.html).
 
 ### Resources
 
