@@ -37,10 +37,34 @@ Objectives:
 
 ### Next: Mechanics
 
--   [Testing
-    functions](https://mastering-shiny.org/scaling-testing.html#testing-functions).
+This meetup covers two sections from the book [Mastering
+Shiny](https://mastering-shiny.org): [Testing
+functions](https://mastering-shiny.org/scaling-testing.html#testing-functions),
+and
+[Workflow](https://mastering-shiny.org/scaling-testing.html#workflow-1).
 
--   [Workflow](https://mastering-shiny.org/scaling-testing.html#workflow-1).
+Objectives:
+
+-   Understand the basic 3-level structure of tests: file, test, and
+    expectation.
+
+-   Understand the basic workflow by testing `load_file()` to read .csv
+    and .tsv.
+
+-   Understand the 4 ways to run tests: By line, test\_that(),
+    test\_file(), test().
+
+### Next
+
+Workflow:
+
+-   Test Driven Development (TDD): Building `load_file()` from scratch.
+
+-   Code coverage.
+
+-   Keyboard shortcuts.
+
+-   `expect_snapshot()` and friends.
 
 ### Resources
 
