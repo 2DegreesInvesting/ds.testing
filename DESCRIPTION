@@ -11,7 +11,13 @@ Authors@R:
              role = c("cph", "fnd"),
              email = "contact@2degrees-investing.org"))
 Description: A series of ds-incubator meetups about testing R code.
-License: file LICENSE
+License: MIT + file LICENSE
+Imports: 
+    tibble,
+    vroom
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
