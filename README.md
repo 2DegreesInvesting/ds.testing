@@ -61,12 +61,12 @@ Objectives:
 > implementation. –
 > <https://mastering-shiny.org/scaling-testing.html#philosophy>
 
-This meetup covers Test Driven Development, a style of development where
+This meetup covers test driven development, a style of development where
 you write the test before you write the code.
 
 Objectives:
 
--   Live code `load_file()` from scratch using test-driven development.
+-   Live code `load_file()` from scratch using test driven development.
 
 ### Next
 
