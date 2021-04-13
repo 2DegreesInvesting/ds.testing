@@ -54,11 +54,23 @@ Objectives:
 -   Understand the 4 ways to run tests: By line, test\_that(),
     test\_file(), test().
 
+### Test Driven Development (TDD)
+
+> If you know exactly how a function should behave, it makes sense to
+> capture that knowledge as code before you start writing the
+> implementation. –
+> <https://mastering-shiny.org/scaling-testing.html#philosophy>
+
+This meetup covers Test Driven Development, a style of development where
+you write the test before you write the code.
+
+Objectives:
+
+-   Live code `load_file()` from scratch using test-driven development.
+
 ### Next
 
 Workflow:
-
--   Test Driven Development (TDD): Building `load_file()` from scratch.
 
 -   Code coverage.
 
