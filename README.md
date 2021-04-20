@@ -68,13 +68,19 @@ Objectives:
 
 -   Live code `load_file()` from scratch using test driven development.
 
+### Workflow: Code coverage and keyboard shortcuts
+
+This meetup covers a workflow guided by an analysis of code coverage to
+learn which lines of code need testing. It will be a live demo of a use
+case for refactoring.
+
+Objectives:
+
+-   Understand how to use code coverage to refactor safely.
+
+-   Learn how to setup convenient shortcuts in RStudio.
+
 ### Next
-
-Workflow:
-
--   Code coverage.
-
--   Keyboard shortcuts.
 
 -   [Snapshot
     tests](https://testthat.r-lib.org/articles/snapshotting.html).
