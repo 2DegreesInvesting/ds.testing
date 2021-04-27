@@ -85,15 +85,16 @@ Objectives:
 
 * Learn how to setup convenient shortcuts in RStudio.
 
-### [Snapshot tests](https://testthat.r-lib.org/articles/snapshotting.html).
+### Snapshot tests
 
-This meetup covers [Snapshot
-tests](https://testthat.r-lib.org/articles/snapshotting.html) (a.k.a) [Golden
-tests](FIXME).
+This meetup covers the article [Snapshot
+tests](https://testthat.r-lib.org/articles/snapshotting.html) from the testthat
+package (also available locally with `vignette("snapshotting", package =
+"testthat")`)
 
 Objectives:
 
-* Understand what a snapshot test is and when it's useful.
+* Understand what a snapshot test is and when it's convenient.
 
 * Understand how to use `testthat::expect_snapshot()`.
 
