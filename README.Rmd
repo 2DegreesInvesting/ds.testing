@@ -87,24 +87,31 @@ Objectives:
 
 ### Snapshot tests
 
+> Instead of using code to describe expected output, snapshot tests (also known
+as [golden tests](https://ro-che.info/articles/2017-12-04-golden-tests)) record
+results in a separate human readable file. 
+--https://testthat.r-lib.org/articles/snapshotting.html
+
+
 This meetup covers the article [Snapshot
 tests](https://testthat.r-lib.org/articles/snapshotting.html) from the testthat
-package (also available locally with `vignette("snapshotting", package =
-"testthat")`)
+package.
 
 Objectives:
 
-* Understand what a snapshot test is and when it's convenient.
+* Understand what a snapshot tests are and when to use them.
 
-* Understand how to use `testthat::expect_snapshot()`.
+* Understand the basic workflow of snapshot testing with testthat.
 
-* Discuss when snapshot tests can be fragile (Monika) and how to fit it (CJ).
+* Discuss snapshot tests for plots or images (Monika and CJ).
 
-### Next
+### Next (tentative)
 
 * Test fixtures.
 
 * Summary of "Unit Testing: Principles, Practices, and Patterns".
+
+* Testing in the wild.
 
 ### Resources
 
