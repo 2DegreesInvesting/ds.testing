@@ -100,13 +100,22 @@ Objectives:
 
 -   Discuss snapshot tests for plots or images (Monika and CJ).
 
+### Snapshot tests revisited: Common use cases
+
+This meetup extends the previous one. I’ll live code to show how
+snapshot testing helps in common use cases.
+
+Objective:
+
+-   Use snapshots to build a safety net before refactoring.
+
+-   Use snapshots to ensure messages to the user are readable.
+
 ### Next (tentative)
 
 -   Test fixtures.
 
 -   Summary of “Unit Testing: Principles, Practices, and Patterns”.
-
--   Testing in the wild.
 
 ### Resources
 
