@@ -1,6 +1,7 @@
 si <- function() {
   message("* Copy from console:")
-  cat(sep = "\n",
+  cat(
+    sep = "\n",
     "<details>",
     "```{r}",
     "devtools::session_info()",

@@ -109,8 +109,6 @@ Objective:
 
 -   Use snapshots to build a safety net before refactoring.
 
--   Use snapshots to ensure messages to the user are readable.
-
 ### Next (tentative)
 
 -   Test fixtures.
