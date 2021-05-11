@@ -112,7 +112,11 @@ Objective:
 ### Test fixtures
 
 This meetup covers the hazards of side effects and the some ways to
-leave the world as you found it.
+leave the world as you found it. It loosely follows the [Test
+fixtures](https://testthat.r-lib.org/articles/test-fixtures.html)
+article of the testthat package, and the related [blog
+post](https://www.tidyverse.org/blog/2020/04/self-cleaning-test-fixtures/)
+in the tidyverse blog.
 
 Objectives:
 
