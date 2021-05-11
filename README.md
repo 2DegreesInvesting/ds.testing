@@ -109,9 +109,19 @@ Objective:
 
 -   Use snapshots to build a safety net before refactoring.
 
-### Next (tentative)
+### Test fixtures
 
--   Test fixtures.
+This meetup covers the hazards of side effects and the some ways to
+leave the world as you found it.
+
+Objectives:
+
+-   Understand why side effects can be problematic.
+
+-   Understand how to “leave the world as you found it” at the end of a
+    test.
+
+### Next (tentative)
 
 -   Summary of “Unit Testing: Principles, Practices, and Patterns”.
 
